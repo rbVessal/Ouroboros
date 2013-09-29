@@ -1,0 +1,5 @@
+\\banner.main.ad.rit.edu\students\tjb7628\igmprofile\documents\visual studio 2010\Projects\LightGame\LightGame\LightGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\SchoolWork\20112\ImagineCup2012\LightGame\LightGame\LightGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\tjb7628\IGMProfile\Desktop\ImagineCup2012\ImagineCup2012\LightGame\LightGame\LightGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IcyRagemora\Desktop\LightGame\LightGame\LightGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\portfolioGames\Ouroboros\LightGame\LightGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
